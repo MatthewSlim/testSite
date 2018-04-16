@@ -1,4 +1,6 @@
-html {background-color: #22c7d3; }
+html {background-color: #22c7d3; 
+    text-align:center;
+}
 
 h3 {
     background-color: #5E1485;
@@ -24,4 +26,9 @@ li {
 
 p {
     font-size: 20px;
+}
+
+table {
+    font-size: 27px;
+    text-align:center;
 }
